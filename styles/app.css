@@ -15,14 +15,12 @@ p {
 }
 
 .navlinks {
-    display: flex;
     text-align: center;
-    justify-content: space-around;  
 }
 
 .navlinks a {
     color: orange;
-    
+    margin: 0 15px;
 }
 
 .navlinks a:hover {
